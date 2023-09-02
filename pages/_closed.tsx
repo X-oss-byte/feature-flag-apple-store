@@ -21,3 +21,5 @@ export default function Closed() {
     </div>
   )
 }
+extract: extract exported default (in open)
+open : open closed export 
